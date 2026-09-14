@@ -1,0 +1,3 @@
+﻿# Datos grandes
+*.csv
+!muestra_pequena.csv
